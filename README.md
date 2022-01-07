@@ -13,4 +13,4 @@
 
 3. Go to http://0.0.0.0:3001/
 
-Visit my Medium page. ![My Medium page](https://medium.com/@patlichengine/building-machine-learning-model-for-solving-real-world-problems-1a2dcd2174a8)
+[Visit my Medium page](https://medium.com/@patlichengine/building-machine-learning-model-for-solving-real-world-problems-1a2dcd2174a8)

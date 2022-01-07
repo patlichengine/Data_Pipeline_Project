@@ -1,5 +1,5 @@
 # Disaster Response Pipeline Project
-
+![Data Science Udacity Nanodegree](https://miro.medium.com/max/2000/1*BFD7xbM1Db0UiilLuTHuYA.jpeg)
 ### Instructions:
 1. Run the following commands in the project's root directory to set up your database and model.
 
@@ -12,3 +12,5 @@
     `python run.py`
 
 3. Go to http://0.0.0.0:3001/
+
+Visit my Medium page. ![My Medium page](https://medium.com/@patlichengine/building-machine-learning-model-for-solving-real-world-problems-1a2dcd2174a8)
